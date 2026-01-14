@@ -53,11 +53,11 @@
 </dependency>
 
 <!-- H2 Database (for local development) -->
-<dependency>
+<!-- <dependency>
   <groupId>com.h2database</groupId>
   <artifactId>h2</artifactId>
   <scope>runtime</scope>
-</dependency>
+</dependency> -->
 
 <!-- PostgreSQL Database (for production) -->
 <dependency>
